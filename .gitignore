@@ -1,2 +1,8 @@
+*.swo
 *.swp
-compile_commands.json
+
+.idea
+cmake-build-debug
+mybuild
+
+*.o
